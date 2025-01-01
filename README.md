@@ -1,5 +1,6 @@
 # CAPSTONE PROJECT: Crea8folio: Professional Portfolio Creator for Business Students
 *Source Files not included for now*
+Expample Website:https://faizandhankwala.github.io/Websitetest/
 ![crea8folio](https://github.com/user-attachments/assets/8ec0a72c-3703-4242-a576-89e483db7f8b)
 
 ## Introduction
@@ -63,6 +64,9 @@ This editor was particularly tough to implement due to the math required for lay
 
 Here is what the app looked like after implementing Grape.JS and tweaking the library to match Crea8Folio's Style.
 ![image](https://github.com/user-attachments/assets/9ef344c9-4ccb-42c2-bb65-a032f860edc8)
+![image](https://github.com/user-attachments/assets/c7bcba9d-ec4b-4b65-aba7-b1f4127b29b8)
+-There are block sections in which you can drag in.
+
 
 ---
 
@@ -89,7 +93,7 @@ I also spent a lot of time on stack overflow to help answer my questions about a
 - Below is a screenshot of the almost final development stage.
 ![image](https://github.com/user-attachments/assets/a04df1ca-7efc-4de7-9b50-42e2d7590e05)
 
-And here is the what the code export looked like.
+-And here is the what the code export looked like.
 ![image](https://github.com/user-attachments/assets/31f09a5f-5cca-4b76-bee2-d2f8cbb8fc1f)
 
 
@@ -102,7 +106,7 @@ And here is the what the code export looked like.
 ![image](https://github.com/user-attachments/assets/59ef14d8-977e-441b-bf5b-3b33a7a04aba)
 
 
-I also made a poster explaining the functionality of Crea8folio. You can see it below.
+-I also made a poster explaining the functionality of Crea8folio. You can see it below.
   ![Final Poster (2)](https://github.com/user-attachments/assets/faa19faf-b5d0-4833-b712-6211b5658ffc)
 
 
