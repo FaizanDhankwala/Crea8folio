@@ -1,4 +1,5 @@
-# CAPSTONE PROJECT: Crea8folio: Professional Portfolio Creator for Business Students *Source Files not included for now*
+# CAPSTONE PROJECT: Crea8folio: Professional Portfolio Creator for Business Students
+*Source Files not included for now*
 ![crea8folio](https://github.com/user-attachments/assets/8ec0a72c-3703-4242-a576-89e483db7f8b)
 
 ## Introduction
