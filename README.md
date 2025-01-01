@@ -106,7 +106,8 @@ I also spent a lot of time on stack overflow to help answer my questions about a
 ![image](https://github.com/user-attachments/assets/59ef14d8-977e-441b-bf5b-3b33a7a04aba)
 
 
--I also made a poster explaining the functionality of Crea8folio. You can see it below.
+## Poster
+I also made a poster explaining the functionality of Crea8folio. You can see it below.
   ![Final Poster (2)](https://github.com/user-attachments/assets/faa19faf-b5d0-4833-b712-6211b5658ffc)
 
 
