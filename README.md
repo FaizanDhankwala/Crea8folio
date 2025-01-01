@@ -1,5 +1,6 @@
-# Crea8folio: Professional Portfolio Creator for Business Students
-![green hoodie mockup (1)](https://github.com/user-attachments/assets/b2befbe3-5c9b-4ba2-9823-73513dc8c240)
+# CAPSTONE PROJECT: Crea8folio: Professional Portfolio Creator for Business Students *Source Files not included for now*
+![crea8folio](https://github.com/user-attachments/assets/8ec0a72c-3703-4242-a576-89e483db7f8b)
+
 ## Introduction
 . Hello! welcome to my personal project Crea8Folio!. Crea8folio is a no-code portfolio builder tailored specifically for business students. It’s a platform that empowers students to showcase their skills, projects, and accomplishments in a professional and visually appealing way. The idea behind Crea8folio came from my realization that, unlike computer science majors, business students lack tools to create personalized, interactive portfolios. This project not only aims to level the playing field but also to make portfolio-building an enjoyable and creative process.
 
