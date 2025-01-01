@@ -1,10 +1,10 @@
 # CAPSTONE PROJECT: Crea8folio: Professional Portfolio Creator for Business Students
-*Source Files not included for now*
-Expample Website:https://faizandhankwala.github.io/Websitetest/
+-*Source Files not included for now*
+-Example Website:https://faizandhankwala.github.io/Websitetest/
 ![crea8folio](https://github.com/user-attachments/assets/8ec0a72c-3703-4242-a576-89e483db7f8b)
 
 ## Introduction
-. Hello! welcome to my personal project Crea8Folio!. Crea8folio is a no-code portfolio builder tailored specifically for business students. It’s a platform that empowers students to showcase their skills, projects, and accomplishments in a professional and visually appealing way. The idea behind Crea8folio came from my realization that, unlike computer science majors, business students lack tools to create personalized, interactive portfolios. This project not only aims to level the playing field but also to make portfolio-building an enjoyable and creative process.
+Hello! welcome to my personal project Crea8Folio!. Crea8folio is a no-code portfolio builder tailored specifically for business students. It’s a platform that empowers students to showcase their skills, projects, and accomplishments in a professional and visually appealing way. The idea behind Crea8folio came from my realization that, unlike computer science majors, business students lack tools to create personalized, interactive portfolios. This project not only aims to level the playing field but also to make portfolio-building an enjoyable and creative process.
 
 ## Inspiration
 As a computer science student, I’m aware of the importance of a personal portfolio. It's often the deciding factor in securing jobs or internships. However, I noticed that students in non-technical fields, especially business majors, don't have the same resources to showcase their work. While computer science students build GitHub repositories or personal websites, business students often rely solely on resumes or LinkedIn profiles. 
@@ -45,10 +45,10 @@ Some of the key features added during this phase included:
 ---
 
 ### Building the Drag-and-Drop Editor
-The most challenging yet rewarding part of the project was building the drag-and-drop editor. To achieve this, I utilized **Grape.js**, a powerful open-source library for creating web builders.
+-The most challenging yet rewarding part of the project was building the drag-and-drop editor. To achieve this, I utilized **Grape.js**, a powerful open-source library for creating web builders.
 ![image](https://github.com/user-attachments/assets/89d507d1-ff17-4716-a6d8-9a9e41798d97)
 
-The thing is that I started with Reka.JS, but soon realized that it does not support JavaScript functionality and I could not make elements reactive. Unfortunetly I realized this halfway in building Crea8Folio.
+-The thing is that I started with Reka.JS, but soon realized that it does not support JavaScript functionality and I could not make elements reactive. Unfortunetly I realized this halfway in building Crea8Folio.
 ![image](https://github.com/user-attachments/assets/3abe3326-57c9-4abd-98d2-612e87bbad31)
 
 
